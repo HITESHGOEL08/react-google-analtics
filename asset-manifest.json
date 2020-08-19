@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-google-analtics/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-google-analtics/static/js/main.71c81e88.chunk.js",
+    "main.js.map": "/react-google-analtics/static/js/main.71c81e88.chunk.js.map",
+    "runtime-main.js": "/react-google-analtics/static/js/runtime-main.aed1694e.js",
+    "runtime-main.js.map": "/react-google-analtics/static/js/runtime-main.aed1694e.js.map",
+    "static/js/2.763b34e5.chunk.js": "/react-google-analtics/static/js/2.763b34e5.chunk.js",
+    "static/js/2.763b34e5.chunk.js.map": "/react-google-analtics/static/js/2.763b34e5.chunk.js.map",
+    "index.html": "/react-google-analtics/index.html",
+    "precache-manifest.1c4294a247eee1c7a5ef78af9e287174.js": "/react-google-analtics/precache-manifest.1c4294a247eee1c7a5ef78af9e287174.js",
+    "service-worker.js": "/react-google-analtics/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-google-analtics/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.763b34e5.chunk.js.LICENSE.txt": "/react-google-analtics/static/js/2.763b34e5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-google-analtics/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aed1694e.js",
+    "static/js/2.763b34e5.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.71c81e88.chunk.js"
+  ]
+}
